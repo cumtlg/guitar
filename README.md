@@ -2,8 +2,7 @@
 -guitar
 +# 页面
 +
-+![image1](https://github.com/cumtwangjunhui/guitar2/blob/master/guitarimage/1.PNG)
++![image1](https://github.com/cumtlg/guitar/blob/master/guitar/111.jpg)
 +
-+![image2](https://github.com/cumtwangjunhui/guitar2/blob/master/guitarimage/2.PNG)
++![image2](https://github.com/cumtlg/guitar/blob/master/guitar/222.jpg)
 +
-+![image3](https://github.com/cumtwangjunhui/guitar2/blob/master/guitarimage/3.PNG)
